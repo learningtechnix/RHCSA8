@@ -1,4 +1,4 @@
-# RedHat certified System Administration ( RHCSA 8 ) #
+# RedHat certified System Administration 8 (EX200) #
 
 ##  This course is for: ##
 Experienced Red Hat Enterprise Linux system administrators seeking validation of their skills
