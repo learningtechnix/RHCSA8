@@ -1,6 +1,9 @@
-# RedHat certified System Administration ( RHCSA 8 )
+# RedHat certified System Administration ( RHCSA 8 ) #
 
-### For any queries email: *learningtechnix@gmail.com*
+##  This course is for: ##
+Experienced Red Hat Enterprise Linux system administrators seeking validation of their skills
+For learning Path of Earning RHCE
+For a course contributing in journey of Redhat Certified Architect (RHCA)
 
 ## **COURSE CONTENT** ##
 
